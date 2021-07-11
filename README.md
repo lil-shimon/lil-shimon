@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 <p align="left>
           <a>
+          ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lil-shimon&theme=github_dark)
            <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lil-shimon&theme=github_dark" />
           </a>
           <a>
