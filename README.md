@@ -23,3 +23,5 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/lil-shimon?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lil-shimon)](https://github.com/anuraghazra/github-readme-stats)
