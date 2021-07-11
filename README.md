@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=lil-shimon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<a>
+<p align="left>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lil-shimon&theme=github_dark" />
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lil-shimon&theme=github_dark" />
-<a/>
+<p/>
