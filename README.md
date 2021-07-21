@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lil-shimon&show_icons=true&count_private=true&theme=radical&hide=contribs&show_icons=true" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lil-shimon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
