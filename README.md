@@ -1,4 +1,4 @@
-### About lil-shimon
+### Thanks for comming!
 
 <!--
 **lil-shimon/lil-shimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
