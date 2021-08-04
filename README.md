@@ -31,7 +31,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lil-shimon&show_icons=true&count_private=true&theme=radical&hide=contribs&show_icons=true" />
 </a>
 
+<!-- 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lil_shimon_dieng&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lil-shimon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
