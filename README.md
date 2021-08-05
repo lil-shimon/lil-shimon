@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="left"> 
   <a href="https://github.com/lil-shimon/lil-shimon/">
     <img src="https://komarev.com/ghpvc/?username=lil-shimon" alt="lil-shimon" />
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lil-shimon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lil-shimon&theme=buddhism&title=MultiLanguage,Joined2020,Commit,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-shimon&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,shell,VBA,Vim Snippet,rudy,php,c,Dockerfile,Ruby,Blade,lua,M4,Vim Script,Makefile,Jupyter Notebook&langs_count=10" /> 
