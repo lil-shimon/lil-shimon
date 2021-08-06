@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=lil-shimon&theme=buddhism&title=MultiLanguage,Joined2020,Commit,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-shimon&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,shell,VBA,Vim Snippet,rudy,php,c,Dockerfile,Ruby,Blade,M4,Vim Script,Makefile,Jupyter Notebook,TeX,VCL,Jinja&langs_count=10" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-shimon&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,shell,VBA,Vim Snippet,rudy,Fortran,Dockerfile,Ruby,Blade,M4,Vim Script,Makefile,Jupyter Notebook,TeX,VCL,Jinja,SCSS&langs_count=10" /> 
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lil-shimon&theme=github_dark" />
 </p>
 <p align="center">
