@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm LIL SHIMON</h1>
-<h3 align="center">A passionate developer from JAPAN</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+lil+-+shimon!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-shimon&label=Profile%20views&color=0e75b6&style=flat" alt="lil-shimon" /> </p>
 
 ---
