@@ -1,10 +1,11 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+lil+-+shimon!)](https://git.io/typing-svg)
+
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/69175188/168822205-6d4456e3-e31b-484e-b14f-5a8571f0637b.png" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+lil+-+shimon!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-shimon&label=Profile%20views&color=0e75b6&style=flat" alt="lil-shimon" /> </p>
 
 ---
