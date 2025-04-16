@@ -1,6 +1,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+lil+-+shimon!)](https://git.io/typing-svg)
+---
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=lil-shimon&theme=nord&column=8&no-frame=true&margin-w=5" />
+  </a>
+</div>
+
+---
 
 # 自己紹介
 こんにちは、lil-shimonです。  
@@ -61,13 +69,6 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-shimon&label=Profile%20views&color=0e75b6&style=flat" alt="lil-shimon" /> </p>
-
----
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=lil-shimon&theme=nord&column=8&no-frame=true&margin-w=5" />
-  </a>
-</div>
 
 ---
 <div align="center">
