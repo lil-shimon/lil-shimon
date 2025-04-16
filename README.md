@@ -3,11 +3,11 @@
 
 ---
 
-<div style="display: flex; gap: 8px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); align-items: center;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" style="justify-self: center;">
     <img src="https://github-profile-trophy.vercel.app/?username=lil-shimon&theme=nord&row=2&column=3&no-frame=true&title=Commit,Repository,PR,Issue,MultiLanguage,Joined2020" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats"  style="justify-self: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-shimon&layout=compact&hide=dockerfile,shell,html,java,vba,php,vim%20script,blade,ruby,javascript,VCL,css,Lua,c&langs_count=6&theme=nord&hide_border=true"/>
   </a>
 </div>
