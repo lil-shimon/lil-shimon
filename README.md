@@ -72,13 +72,4 @@ Webフロントエンドを軸としたフルスタック〜開発支援・ア�
 
 ---
 
-## 💡 今ハマっていること
-
-最近は、生成AIを活用した開発効率アップや動画生成フローの最適化に夢中です。
-
-使い倒しているツールたち：  
-`GitHub Copilot` / `Cursor Pro` / `ChatGPT Pro` / `Claude Pro` / `Cline` / `Vrew`
-
----
-
 📫 Feel free to reach out in Japanese or English. I'm always happy to connect!
