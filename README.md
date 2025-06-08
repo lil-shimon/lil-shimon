@@ -21,12 +21,6 @@
 
 2年間の正社員経験後、フリーランスとしてWebフロントエンドを中心に活動しています。
 
-## 経験スキル
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,webpack,react,php,npm,nodejs,laravel,jest,github,git,express,docker,aws,babel,emotion,graphql,mysql,redux)](https://skillicons.dev)
-
-### 微経験あり
-[![My Skills](https://skillicons.dev/icons?i=py,figma,githubactions,go,flutter,firebase,electron,dart,kotlin,nginx,sass,)](https://skillicons.dev)
-
 ---
 
 ## 💼 やってきたこと
